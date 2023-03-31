@@ -15,6 +15,11 @@
 
 # Assessment Using Reliability Growth Testing 
 ![image](https://user-images.githubusercontent.com/47401225/229016872-2efae7b0-445a-4ad4-a8f0-6765ca4cd151.png)
+![image](https://user-images.githubusercontent.com/47401225/229016935-22d69b48-5637-4c91-a4ee-32a91729ad5d.png)
+![image](https://user-images.githubusercontent.com/47401225/229016970-952aa8c1-d567-423f-9162-b121241b4636.png)
+![image](https://user-images.githubusercontent.com/47401225/229016984-bb4774a5-eb28-4961-88f6-39683e3595a3.png)
+![image](https://user-images.githubusercontent.com/47401225/229016999-af3c836e-c18c-4e71-9d56-e9bde66f9ea5.png)
+
 
 
 # Assessment Using Reliability Demonstration Chart 
