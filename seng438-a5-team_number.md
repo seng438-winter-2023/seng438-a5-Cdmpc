@@ -2,12 +2,13 @@
 
 **Lab. Report \#5 – Software Reliability Assessment**
 
-| Group \#:       |   |
-|-----------------|---|
-| Student Names:  |   |
-|                 |   |
-|                 |   |
-|                 |   |
+| Group \#:             |     |
+|-----------------------|-----|
+| Student Names:        |     |
+| Carlos Morera Pinilla |     |
+| Neil Adrian Sarmiento |     |
+| Hassan Anwar          |     |
+| Toshi Biswas          |     |
 
 # Introduction
 
