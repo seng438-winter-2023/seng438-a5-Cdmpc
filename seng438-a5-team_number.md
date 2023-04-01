@@ -34,8 +34,7 @@ to assess the reliability over time of a SUT as it gets used more and more often
 # Discussion on Similarity and Differences of the Two Techniques
 
 # How the team work/effort was divided and managed
-
-# Neil did the plotting for the graphs and some of the write up for the lab. Carlos did majority of the lab write up.
+Neil did the plotting for the graphs and some of the write up for the lab. Carlos did majority of the lab write up.
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
