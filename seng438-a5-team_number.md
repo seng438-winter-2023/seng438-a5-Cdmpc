@@ -58,6 +58,9 @@ RGT is better at detecting potential and current bugs, while RDC is better at ma
 Neil did the plotting for the graphs and some of the write up for the lab. Carlos did majority of the lab write up.
 
 # Difficulties encountered, challenges overcome, and lessons learned
+During this lab, we had trouble figuring out what tasks we were supposed to do. The assignment guideline didn't have enough details, which made it harder for us. But we were able to overcome this by working together and using external resources to understand the software better.
+
+This experience taught us an important lesson as engineering students. It's crucial to learn about the software before using it. At first, we had a hard time using the software because we didn't understand how it worked. So, we learned that it's essential to educate ourselves about the software's features before using it to avoid similar problems in the future.
 
 # Comments/feedback on the lab itself
 
