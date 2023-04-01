@@ -39,3 +39,4 @@ Neil did the plotting for the graphs and some of the write up for the lab. Carlo
 # Difficulties encountered, challenges overcome, and lessons learned
 
 # Comments/feedback on the lab itself
+Our group noticed significant deviations between this lab and the previous four. Although we acquired useful knowledge that enhanced our understanding of the course material, we struggled initially due to the insufficient guidance presented in the assignment guidelines. In our view, it would be advantageous for future students to have access to more detailed instructions and software that works seamlessly with modern operating systems.
