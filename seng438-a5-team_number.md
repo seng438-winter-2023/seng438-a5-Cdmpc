@@ -11,7 +11,8 @@
 | Toshi Biswas          |     |
 
 # Introduction
-
+The purpose of this lab was to get familiar with recording failure rate using plots from a reliabiity assesment tool such as SRTAT
+to assess the reliability over time of a SUT as it gets used more and more often over longer periods of time.
 # 
 
 # Assessment Using Reliability Growth Testing 
@@ -25,7 +26,7 @@
 
 
 # Assessment Using Reliability Demonstration Chart 
-
+![RDC Chart](file:///C:/Users/Carlos/downloads/RDC.jpg)
 # 
 
 # Comparison of Results
